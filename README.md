@@ -17,3 +17,37 @@
 ---
 ## 담당역할
 
+- 마이페이지 구현
+(개인정보 변경, 암호 변경, 탈퇴)
+
+![마이페이지 구현](https://user-images.githubusercontent.com/68312957/108072322-17253e00-70aa-11eb-8177-0292045080cb.gif)
+
+- 프로필 사진 변경
+
+![프로필 사진 변경](https://user-images.githubusercontent.com/68312957/108072351-20160f80-70aa-11eb-8f75-a487602dcd5b.gif)
+
+- 로그인 아이디/암호 미입력 혹은 입력 오류 시 에러 알림
+(로그인 세션 저장, 로그아웃 시 세션 제거 포함)
+
+![로그인 에러 알림](https://user-images.githubusercontent.com/68312957/108072319-14c2e400-70aa-11eb-80f5-e884b8ea0cbd.gif)
+
+
+- 카카오맵 api
+(현재 위치 기반 스터디룸 검색)
+
+![카카오맵 api](https://user-images.githubusercontent.com/68312957/108072344-1db3b580-70aa-11eb-9eea-6b14f6414759.gif)
+
+- 카카오 링크 api
+(sns 공유)
+
+![카카오 링크 api (모자이크, 저용량)](https://user-images.githubusercontent.com/68312957/108072944-dbd73f00-70aa-11eb-85d1-f953ad3add8f.gif)
+
+- html2canvas
+(일정을 이미지 파일로 저장)
+
+![html2canvas](https://user-images.githubusercontent.com/68312957/108072301-1096c680-70aa-11eb-816f-1834d19b42de.gif)
+
+- 운영자페이지 구현
+(회원목록 조회, 회원등급 변경)
+
+![운영자페이지 구현](https://user-images.githubusercontent.com/68312957/108072330-18ef0180-70aa-11eb-85a7-233469d1ed98.gif)
